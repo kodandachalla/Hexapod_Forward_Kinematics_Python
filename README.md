@@ -1,1 +1,1 @@
-# Hexapod Forward Kninematic (Python)
+# Hexapod Forward Kinematics (Python)
